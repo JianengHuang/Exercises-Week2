@@ -1,0 +1,1 @@
+JSX or JavaScript XML is an extension of the JavaScript syntax which makes writing and adding HTML easier on it. Although JS and JSX can be used, JSX is preferable when using React because it makes the code more understandable for users. 

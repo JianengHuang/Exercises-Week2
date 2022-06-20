@@ -1,0 +1,20 @@
+* {
+  font-size: 2rem;
+  text-align: center;
+}
+
+nav {
+  display: flex;
+  padding: 1em;
+  justify-content: space-between;
+}
+
+.home {
+  margin: 10px;
+  text-decoration: none;
+}
+
+.products {
+  margin: 10px;
+  text-decoration: none;
+}
